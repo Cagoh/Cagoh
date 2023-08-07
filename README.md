@@ -1,5 +1,6 @@
 ### Hi there 👋
 Feel free to browse around
+Game in javascript, Android application and more
 <!--
 **Cagoh/Cagoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
