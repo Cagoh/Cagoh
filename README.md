@@ -5,11 +5,11 @@ Game in javascript, Android application and more
 My Introduction website: [https://cagoh.github.io/cs50/](https://cagoh.github.io/cs50/)
 
 The Odin Project:
-https://github.com/Cagoh/odin-recipes
-https://github.com/Cagoh/landing-page
-https://github.com/Cagoh/rock-paper-scissors
-https://github.com/Cagoh/etch-a-sketch
-https://github.com/Cagoh/calculator
+https://github.com/Cagoh/odin-recipes\n
+https://github.com/Cagoh/landing-page\n
+https://github.com/Cagoh/rock-paper-scissors\n
+https://github.com/Cagoh/etch-a-sketch\n
+https://github.com/Cagoh/calculator\n
 
 <!--
 **Cagoh/Cagoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
