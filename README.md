@@ -8,11 +8,11 @@ My Android Projects:<br>
 https://github.com/Cagoh/Android<br>
 
 The Odin Project:<br>
-https://github.com/Cagoh/odin-recipes<br>
-https://github.com/Cagoh/landing-page<br>
-https://github.com/Cagoh/rock-paper-scissors<br>
-https://github.com/Cagoh/etch-a-sketch<br>
-https://github.com/Cagoh/calculator<br>
+https://cagoh.github.io/odin-recipes/<br>
+https://cagoh.github.io/landing-page<br>
+https://cagoh.github.io/rock-paper-scissors<br>
+https://cagoh.github.io/etch-a-sketch<br>
+https://cagoh.github.io/calculator<br>
 
 <!--
 **Cagoh/Cagoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
